@@ -47,7 +47,7 @@ def model_train(x_train, x_test, y_train, y_test, lambda_val=0.07):
 
 
 with header:
-    st.title('California House Pricing Analysis!!...')
+    st.title('California House Pricing Analysis🏙️!!...')
     st.write(" ")
     st.write("   ")
     st.write("   ")
